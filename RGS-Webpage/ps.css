@@ -1,0 +1,142 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.logopart 
+{
+    background-color:rgb(195, 121, 121);
+    height: 225px;
+    
+}
+
+.logopart img
+{
+    position: absolute;
+  
+    margin: 113px 0px 0px 266px;
+    color: aliceblue;
+    width: 79%;
+}
+
+.margin
+{
+    margin: 0px 70px;
+}
+
+.content1
+{}
+
+.content1 img
+{
+    float: left;
+    margin: 30px 0px 0px 0px;
+    width: 10%;
+}
+
+.content1 nav
+{
+    padding: 179px 0px 0px 381px;
+    position: relative;
+}
+
+.content1 nav a
+{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    list-style: none;
+    padding: 0px 0px;
+    margin: 9px 0px 0px 22px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 16px;
+    
+}
+
+.content1 nav a:hover
+{
+    background: #4e9882;
+    padding: 10px 16px;
+}
+
+/*---------------------------------------*/
+
+
+.banerpart
+{
+    background: url(phone\ banner.png) no-repeat;
+    height: 628px;
+    background-size: cover;
+    background-position: center;
+}
+
+.baner
+{
+    
+}
+
+.movingbutton
+{
+    padding: 36px 0px 0px 489px;
+}
+
+.movingbutton img
+{
+    padding: 0px 0px 0px 7px;
+}
+
+.midpart
+{}
+
+.midpart1 p
+{
+  width: 113%;
+  height: 70px;
+  font-size: 17px;
+  color: white;
+  text-transform: uppercase;
+  padding: 141px 0px 95px 135px;
+  font-family: 'Roboto', sans-serif;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+}
+
+.midpart1 span
+{
+    width: 94%;
+    height: 70px;
+    font-size: 50PX;
+    color: white;
+   font-family: 'Roboto', sans-serif;
+    margin: 0px 0px 0px 429px;
+    margin: 0px 0px 0px 56px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.midpart1 h1
+{
+    color: white;font-family: 'Roboto', sans-serif;
+    font-size: 50px;font-weight: 500;margin: 29px 0px 0px 450px;
+}
+
+.radiobutton
+{
+    margin: 84px 0px 0px 535px;
+}
+
+.radiobutton img
+{
+    margin: 0px 0px 0px 8px;
+}
